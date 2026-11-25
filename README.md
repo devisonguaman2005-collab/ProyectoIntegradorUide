@@ -61,3 +61,11 @@ Declaramos que el código de este repositorio fue escrito por los integrantes de
 
 | Herramienta | Para qué la usamos | Qué revisamos o cambiaron nosotros |
 | ChatGPT (OpenAI) | Orientación para la organización del repositorio, documentación y comprensión de conceptos de programación. | Revisamos las sugerencias y adaptamos la documentación a los requisitos de la Fase 3 y al funcionamiento del proyecto. |
+
+
+## Cómo ejecutar
+Requiere Python 3.12.
+1. py -3.12 -m venv venv
+2. .\venv\Scripts\Activate.ps1
+3. pip install -r requirements.txt
+4. python game.py
