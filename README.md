@@ -69,3 +69,7 @@ Requiere Python 3.12.
 2. .\venv\Scripts\Activate.ps1
 3. pip install -r requirements.txt
 4. python game.py
+
+
+## Link del vídeo
+https://youtu.be/HMJ3yuFHO3Q 
